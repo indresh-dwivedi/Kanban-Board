@@ -13,3 +13,20 @@ This project allows users to create, manage, delete, and move tasks between diff
 - 🔄 Data remains after page refresh
 - 📱 Simple and responsive UI
 - ⚡ Built with Vanilla JavaScript
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure
+- **CSS3** – Styling and layout
+- **JavaScript** – Functionality and DOM manipulation
+- **LocalStorage** – Persistent task storage
+
+## 📂 Project Structure
+
+```text
+Kanban-Board/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
